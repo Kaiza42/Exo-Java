@@ -54,7 +54,7 @@ public class Main {
 //System.out.println("Le chiffre est paire");
 //        }else {
 //            System.out.println("Le chiffre est impaire");
-//        }
+///        }
 
         //Exo 7
 
