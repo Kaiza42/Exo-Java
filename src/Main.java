@@ -56,7 +56,9 @@ public class Main {
 //            System.out.println("Le chiffre est impaire");
 ///        }
 
-        //Exo 7
+        //Exo 7 Vérifier si une année est bissextile.
+        //Pour rappel, une année bissextile est une année multiple de 4, mais pas multiple de 100 ou alors multiple de
+        //400.
 
 
     }
